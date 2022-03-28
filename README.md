@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 ### Stats:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=tokyonight" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phatng45&theme=swift" />
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Preprocessing-Data&show_icons=true&theme=swift)
