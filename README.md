@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![a GitHub stats](https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=Digit_Recognition_Web_App&show_icons=true&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=maneprajakta&repo=DSA&show_icons=true&theme=radical)
