@@ -13,8 +13,8 @@ My goal is to become a Game Developer, and i am still trying hard for it!
 
 ## Stats
 <p align="center">
-<img height=175px src="https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift" />
-<img height=175px src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatng45&theme=swift&langs_count=15" />
+<img height=200px src="https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift" />
+<img height=200px src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatng45&theme=swift&langs_count=15" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phatng45&theme=swift" />
 </p>
 
