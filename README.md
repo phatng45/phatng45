@@ -1,4 +1,4 @@
-Hi, I am Nguyen Phat
+Hi, I am Nguyen Phat, currently pursuing a bachelor's degree in HCMUS.
 
 ## Languages
 
@@ -20,3 +20,5 @@ Hi, I am Nguyen Phat
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Preprocessing-Data&show_icons=true&theme=swift" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Slang_Dictionary&show_icons=true&theme=swift" />
 </p>
+
+## Contact me at [![Gmail](https://img.shields.io/badge/-Gmail-C71610?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:nguyenphatr1@gmail.com)&ensp;[![Blog]
