@@ -1,4 +1,4 @@
-Hi, I am Nguyên Phát, currently pursuing a bachelor's degree in HCMUS.
+Hi, I am Nguyên Phát, currently pursuing a bachelor's degree in Software Engineering.
 
 My goal is to become a Game Developer, and i am still trying hard for it!
 
