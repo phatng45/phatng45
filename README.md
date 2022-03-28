@@ -11,7 +11,7 @@
 ## Stats
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift" />
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatng45&theme=swift&langs_count=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatng45&theme=swift&langs_count=15" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phatng45&theme=swift" />
 </p>
 
