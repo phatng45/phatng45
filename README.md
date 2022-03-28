@@ -15,4 +15,5 @@
 <p align="center">
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Preprocessing-Data&show_icons=true&theme=swift)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Slang_Dictionary&show_icons=true&theme=swift)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Preprocessing-Data&show_icons=true&theme=swift" />
 </p>
