@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+[![Khushi's github activity graph](https://activity-graph.herokuapp.com/graph?username=phatng45&theme=swift)](https://git.io/phatng45)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Preprocessing-Data&show_icons=true&theme=swift)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Slang_Dictionary&show_icons=true&theme=swift)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=giangkeants&repo=Online-E-commerce-Marketplace&show_icons=true&theme=swift)
