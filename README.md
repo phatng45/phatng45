@@ -1,6 +1,6 @@
-Hi, I am Nguyen Phat, currently pursuing a bachelor's degree in HCMUS.
-My goal is to become a Game Developer, and i am trying hard for it!
+Hi, I am Nguyên Phát, currently pursuing a bachelor's degree in HCMUS.
 
+My goal is to become a Game Developer, and i am still trying hard for it!
 
 
 ## Languages
