@@ -11,8 +11,8 @@
 ## Stats
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=phatng45&show_icons=true&theme=swift" />
-<img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatng45&theme=swift&langs_count=10&layout=compact" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=phatng45&theme=swift" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phatng45&theme=swift&langs_count=10&layout=compact" />
 </p>
 
 ### Pinned repositories
