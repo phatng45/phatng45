@@ -22,7 +22,6 @@ My goal is to become a Game Developer, and i am still trying hard for it!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Preprocessing-Data&show_icons=true&theme=swift" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=phatng45&repo=Slang_Dictionary&show_icons=true&theme=swift" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=luthevy&repo=19KTPM3_MobileApp_FinalProject&show_icons=true&theme=swift" />
 </p>
 
 ## :notes: Looking for opporturnity to work with you!
